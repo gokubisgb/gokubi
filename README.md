@@ -1,2 +1,2 @@
-# gokubi
+# GOKUBI
 website
